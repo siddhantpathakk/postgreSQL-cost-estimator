@@ -33,16 +33,9 @@ Streamlining with the project's guidelines, we have decided to use a full Python
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/siddhantpathakk/postgres-qep-visualizer.git
-```
-
 Go to the project directory
 
 ```bash
-  cd postgres-qep-visualizer
   cd src
 ```
 
@@ -55,6 +48,7 @@ Install dependencies (preferably in a virtual environment, using Anaconda or Ven
 ```
 
 If running via CMD(Administrator)
+
 ```bash
   python3 -m venv ./venv
   .\venv\Scripts\activate.bat
